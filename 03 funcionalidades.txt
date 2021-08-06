@@ -1,0 +1,8 @@
+Funcionalidades: 
+
+- Feed com conteúdo infinito;
+- Página de perfil; 
+- API para login com google/facebook;
+- Search para temas e para palavras;
+- Divisão por tema, tags;
+- Página de postagem;
